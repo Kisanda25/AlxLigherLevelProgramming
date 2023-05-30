@@ -3,7 +3,8 @@
 
 
 class Square:
-""a class called square""
+ ""a class called square""
+
     def __init__(self, size):
         """Initializes a new Square.
 
